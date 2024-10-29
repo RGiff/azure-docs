@@ -9,7 +9,7 @@ ms.author: RunCai
 ms.custom: mode-ui, has-azure-ad-ps-ref, ignite-2023
 ---
 
-# Quickstart: Create confidential VM on in the Azure portal
+# Quickstart: Create confidential VM in the Azure portal
 
 You can use the Azure portal to create a [confidential VM](confidential-vm-overview.md) based on an Azure Marketplace image quickly. There are multiple [confidential VM options on AMD and Intel](virtual-machine-solutions-amd.md) with AMD SEV-SNP and Intel TDX technology.
 
